@@ -13,7 +13,7 @@ Głównym składnikiem magii są runy, jest ich 35 lecz nie każda z nich ma prz
 To właśnie z nich będziemy budować nasze zaklęcia.
 
 **Poniżej przedstawiłem każdą runę, literę alfabetu jej odpowiadającą oraz jej znaczenie:**
-![Runy i ich znaczenia](https://github.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/assets/19228846/5a05b840-ef6c-4514-91c2-581c4f3d1210)
+![Runy i ich znaczenia](https://raw.githubusercontent.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/main/Runy%20i%20ich%20znaczenia.jpg)
 ------------------------------------------------------------------------------------------------------
 
 Znaczenia run dzielą się na 3 kategorie:
