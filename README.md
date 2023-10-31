@@ -24,7 +24,7 @@ Znaczenia run dzielą się na 3 kategorie:
 Niektóre znaczenia mogą należeć do kilku kategorii.
 
 **Tak wygląda podział znaczeń ze względu na kategorię:**
-![Kategorie Znaczeń Run](https://github.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/assets/19228846/e158d2a2-4b23-489c-9b16-69a1999a163c)
+![Kategorie Znaczeń Run](https://raw.githubusercontent.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/main/Kategorie%20Znaczeń%20Run.jpg)
 ------------------------------------------------------------------------------------------------------
 
 
@@ -42,7 +42,7 @@ Przyjmijmy X, Y, Z za 3 runy z których chcemy stworzyć zaklęcie.
 2. Drugim krokiem jest znalezienie kształtu, który odpowiada naszej liczbie run najlepiej. W naszym przypadku będzie to trójkąt, ma on 3 narożniki, po jednym na każdą runę.
 3. Następnie na każdy z narożników kształtu nakładamy odpowiednią runę. **_TWORZENIE I CZYTANIE ZAKLĘCIA ZAWSZE ZACZYNAMY OD GÓRNEGO LEWEGO LUB GÓRNEGO ŚRODKOWEGO NAROŻNIKA_**
 4. Kształt połaczony z runami zamykamy w okręgu, tak aby każdy narożnik stykał się z jego brzegiem.
-![Przykład tworzenia zaklęcia](https://github.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/assets/19228846/fa077adb-bee3-4b8d-92d8-d7e835c1fe53)
+![Przykład tworzenia zaklęcia](https://raw.githubusercontent.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/main/Przykład%20tworzenia%20zaklęcia.jpg)
 ------------------------------------------------------------------------------------------------------
 
 ### Przykłady zaklęć
@@ -52,7 +52,7 @@ Poniżej przedstawiłem kilka przykładów prostych zaklęć, dla wygody w ich �
 To jest tak zwany Fire Ball, najbardziej znane zaklęcie świata.
 Aby je osiągnąć używamy runy _Skupienie_ (Ą) po czym runy _Ogień_ (K) aby wskazać co takiego chcemy skupić. Na sam koniec używamy runy _Ruch_ (F) aby nadać ruch naszej kuli ognia.
 
-![ĄKF](https://github.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/assets/19228846/654db7fa-fd9e-434c-a6ec-9f0e30ab910f)
+![ĄKF](https://raw.githubusercontent.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/main/zaklęcia/ĄKF.jpg)
 ------------------------------------------------------------------------------------------------------
 
 Drugie zaklęcie to rozświetlenie kształtu istoty. Wyobraźcie sobie kontur człowieka, a teraz wyobraźcie sobie że ten kontur świeci. To właśnie to zaklęcie lecz do dowolnej istoty.
@@ -60,7 +60,7 @@ Najpierw używamy runy _Istota_ (B) aby wskazać, że nie chodzi nam o np. krzes
 
 **UWAGA** Jest to przykład działającego zaklęcia lecz nie w pełni sprawnego, w aktualnej formie zaklęcie rozświetli kształt _jakiejś istoty_ ponieważ nie przekazaliśmy zaklęciu informacji o jaką konkretną istotę nam chodzi. Problem ten rozwiążemy w późniejszej części za pomocą zagnieżdżania zaklęć.
 
-![BOZ](https://github.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/assets/19228846/63b39e3e-41e0-4574-8679-3b35b499c251)
+![BOZ](https://raw.githubusercontent.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/main/zaklęcia/BOZ.jpg)
 ------------------------------------------------------------------------------------------------------
 
 Zaklęcie Wskazania/Wybrania, jest to najważniejsze zaklęcie w tym systemie magii.
@@ -68,13 +68,13 @@ Zaklęcie to służy do wskazania lub wybrania celu z własnego umysłu. Myślis
 
 Zaczynamy w nim od użycia runy _Ja_ (A), aby wskazać że zaklęcie dotyczy nas, następnie używamy runy _Umysł_ (P) i na sam koniec używamy runy _Sygnał_ (I), aby wskazać że mamy wziąć konkretny sygnał z naszego umysłu.
 
-![API](https://github.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/assets/19228846/940400a9-ec64-44e3-8dcc-bf0f6f53c5d6)
+![API](https://raw.githubusercontent.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/main/zaklęcia/API.jpg)
 
 Magia ta nie zrobi nic konkretnego sama lecz możemy ją rozszerzyć o kolejne runy lub zagnieździć w innym zaklęciu.
 Np. Możemy na sam koniec uzyć runy _Kształt_ (O), aby przekazać magii informację o kształcie, który wybierzemy, a możemy też dodać runę _Światło_ (Z), aby nadać ten wybrany kształt wytworowi światła. W ten sposób możemy stworzyć prosty hologram.
 
-![APIO](https://github.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/assets/19228846/f2b433c5-d128-4004-b978-8851dbbafec3)
-![APIOZ](https://github.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/assets/19228846/da3f698c-ed59-41eb-a16a-39bd25da16a7)
+![APIO](https://raw.githubusercontent.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/main/zaklęcia/APIO.jpg)
+![APIOZ](https://raw.githubusercontent.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/main/zaklęcia/APIOZ.jpg)
 ------------------------------------------------------------------------------------------------------
 
 ## Zasady łączenia zaklęć z innymi zaklęciami (Zaawansowane)
@@ -98,7 +98,7 @@ Miejsce pierwszej runy (lewy górny róg) zajmuje zaklęcie wskazania, tak abyś
 
 Zaklęcie na sam koniec prezentuje się w ten sposób.
 
-![APIBOZ](https://github.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/assets/19228846/7bd68e84-9dbb-4269-b5f6-4b427b7b8665)
+![APIBOZ](https://raw.githubusercontent.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/main/zaklęcia/APIBOZ.jpg)
 ------------------------------------------------------------------------------------------------------
 
 Następnym przykładem może być zagnieżdżenia wcześniej wspomnianego zaklęcia wskazania kształtu (APIO) w zaklęciu fire ball (ĄKF).
@@ -109,7 +109,7 @@ Znowu miejsce pierwszej runy (lewy górny róg) zajmuje zaklęcie wskazania kszt
 
 Zaklęcie na sam koniec prezentuje się w ten sposób.
 
-![APIOĄKF](https://github.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/assets/19228846/2f57af6c-83e9-43e5-bf15-98f78aa0d31a)
+![APIOĄKF](https://raw.githubusercontent.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/main/zaklęcia/APIOĄKF.jpg)
 
 ------------------------------------------------------------------------------------------------------
 
