@@ -36,11 +36,13 @@ Teraz jak już wiesz jaka runa czemu odpowiada, pora na opisanie jak ich użyć.
 
 Każde zaklęcie składa się z jakieś liczby run, kształtu dopasowanego liczbą narożników do liczby run oraz okręgu.
 
+**UWAGA _TWORZENIE I CZYTANIE ZAKLĘCIA ZAWSZE ZACZYNAMY OD GÓRNEGO LEWEGO LUB GÓRNEGO ŚRODKOWEGO NAROŻNIKA ORAZ CZYTAM ZE WSKAZÓWKAMI ZEGARA_**
+
 Najlepiej będzie pokazać na przykładzie.
 Przyjmijmy X, Y, Z za 3 runy z których chcemy stworzyć zaklęcie.
 1. Zaczynamy od określenia ile mamy run. W tym przypadku to proste, mamy 3 runy.
 2. Drugim krokiem jest znalezienie kształtu, który odpowiada naszej liczbie run najlepiej. W naszym przypadku będzie to trójkąt, ma on 3 narożniki, po jednym na każdą runę.
-3. Następnie na każdy z narożników kształtu nakładamy odpowiednią runę. **_TWORZENIE I CZYTANIE ZAKLĘCIA ZAWSZE ZACZYNAMY OD GÓRNEGO LEWEGO LUB GÓRNEGO ŚRODKOWEGO NAROŻNIKA_**
+3. Następnie na każdy z narożników kształtu nakładamy odpowiednią runę. **_TWORZENIE I CZYTANIE ZAKLĘCIA ZAWSZE ZACZYNAMY OD GÓRNEGO LEWEGO LUB GÓRNEGO ŚRODKOWEGO NAROŻNIKA ORAZ CZYTAM ZE WSKAZÓWKAMI ZEGARA_**
 4. Kształt połaczony z runami zamykamy w okręgu, tak aby każdy narożnik stykał się z jego brzegiem.
 ![Przykład tworzenia zaklęcia](https://raw.githubusercontent.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/main/Przykład%20tworzenia%20zaklęcia.jpg)
 ------------------------------------------------------------------------------------------------------
