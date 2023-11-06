@@ -79,7 +79,7 @@ Np. Możemy na sam koniec uzyć runy _Kształt_ (O), aby przekazać magii inform
 ![APIOZ](https://raw.githubusercontent.com/EnderMot/Programistyczno-Interpretacyjny-System-Magii/main/zaklęcia/APIOZ.jpg)
 ------------------------------------------------------------------------------------------------------
 
-## Zasady łączenia zaklęć z innymi zaklęciami (Zaawansowane)
+## Zasady łączenia zaklęć z innymi zaklęciami (Średnio-Zaawansowane)
 
 Łączenie zaklęć z innymi zaklęciami, czyli tak zwane zagnieżdżanie zaklęć jest bradzo ważną techniką. Pozwala ona na tworzenie bardziej złożonych zaklęć np. oddziałujących na konkretne wybrane cele.
 
